@@ -1,8 +1,8 @@
 {
-  "name": "Class2",
+  "name": "Project",
   "version": "1.0.0",
   "main": "app.js",
-  "author": "Krzysztof Bzowski",
+  "author": "Kamil",
   "license": "MIT",
   "dependencies": {
     "babel-runtime": "^6.26.0",
